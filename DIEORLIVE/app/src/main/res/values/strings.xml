@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIE OR LIVE</string>
+    <string name="enter_Age">age</string>
+    <string name="enter_Guess">No. Of Guesses</string>
+</resources>
